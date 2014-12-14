@@ -11,3 +11,7 @@ Concept
 4. Your gui is opened in default browser or in embeded browser using other gui framework
 
 In views.py you can specify what does specific url. It can return html gui or call python function. <br>For simple way of enablyng every function to be called using same url pattern see views.py -> /api
+
+Dependencies
+------------
+- Flask - http://flask.pocoo.org/docs/0.10/installation/
